@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software in scientific research, cite the exact version
+  used. Cite its Zenodo DOI when one is available; otherwise cite the
+  corresponding versioned GitHub release. See LICENSE for the research-only,
+  non-commercial use terms.
+title: >-
+  Code-only Reproducibility Package for Evaluating Regulatory-Referenced
+  Coordination Signals in Financial Forums
+type: software
+authors:
+  - family-names: OZDAG
+    given-names: Muhammet Esat
+    orcid: 'https://orcid.org/0000-0003-0620-4365'
+    affiliation: Tokat Gaziosmanpasa University; Erciyes University
+  - family-names: BASTURK
+    given-names: Alper
+    orcid: 'https://orcid.org/0000-0001-5810-0643'
+    affiliation: Erciyes University
+version: 1.0.0
+repository-code: 'https://github.com/ozdagme/PumpAndDump'

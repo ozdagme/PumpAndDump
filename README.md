@@ -7,12 +7,10 @@ generated result, prediction file, log, cache, or model checkpoint is included.
 
 ## Contents
 
-- `v4_pump_and_dump.py` — model, preprocessing, baseline, and main experiment
-  implementation.
+- `v4_pump_and_dump.py` — model, preprocessing, baseline, and main experiment implementation.
 - `v5_pump_and_dump.py` — interruption-resilient runner and local caches.
 - `full_v4_runner.py` — entry point for the main full-sample run.
-- `activity_controlled_q1_runner.py` — activity-controlled experiment entry
-  point.
+- `activity_controlled_q1_runner.py` — activity-controlled experiment entry point.
 - `temporal_ablation_q1_runner.py` — temporal ablation entry point.
 - `q1_posthoc_analysis.py` — post-hoc metrics and statistical analyses.
 - `q1_completion_analyses.py` — training-loss and two-way bootstrap analyses.
@@ -52,6 +50,10 @@ package does not contain a forum collection script or information identifying
 the forum website. It is not a data release, model-weight release, or public
 inference service.
 
-The software license has not yet been selected. Do not assume permission to
-redistribute or reuse the code beyond applicable law and the authors' eventual
-license choice.
+The code is covered by the project-specific draft in `LICENSE`; commercial
+use is prohibited, and permitted use is limited to non-commercial scientific
+research. Scientific publications that use the code must cite the applicable
+version as described in `CITATION.cff`. This license does not cover any data or
+third-party dependencies. The draft must be approved by all relevant rights
+holders and checked against applicable institutional policies before it is
+treated as the final license or used for public release.

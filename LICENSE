@@ -1,0 +1,79 @@
+RESEARCH-ONLY NON-COMMERCIAL SOFTWARE LICENSE
+Draft 1.0
+
+IMPORTANT STATUS NOTICE
+
+This is a project-specific draft license, not legal advice. Before public
+release, it must be reviewed and approved by all relevant copyright holders
+and checked against applicable institutional policies. Do not treat it as the
+final license until that approval has been obtained.
+
+1. DEFINITIONS
+
+“Software” means the source-code files in this package that are owned or
+controlled by the project authors and distributed with this license.
+
+“Scientific Research” means systematic investigation conducted for the
+purpose of producing or validating scholarly knowledge, where the use of the
+Software is not directed toward a commercial purpose or commercial advantage.
+
+“Commercial Use” means use primarily intended for commercial advantage or
+monetary compensation, including use in or for a commercial product, service,
+consulting engagement, or operational business activity. A publication being
+scholarly does not, by itself, make otherwise commercial use non-commercial.
+
+2. PERMITTED USE
+
+Subject to the conditions below, the copyright holders grant you a
+non-exclusive, worldwide, royalty-free, revocable license to use, run, study,
+reproduce, and modify the Software solely for non-commercial Scientific
+Research. You may provide copies to research collaborators who need them for
+that same permitted purpose, provided that they receive a copy of this license
+and agree to comply with it. You may distribute modified or unmodified copies
+only for non-commercial Scientific Research, with this license and all
+applicable copyright and attribution notices included.
+
+3. RESTRICTIONS AND ATTRIBUTION
+
+You may not use, authorize, or distribute the Software for Commercial Use.
+You may not remove or obscure copyright, authorship, or license notices.
+
+If the Software is used in a scientific publication, thesis, dissertation,
+conference paper, preprint, or other scholarly research output, you must cite
+the specific Software version used. The citation must appear in the
+references, a software citation, or an equivalent methods statement; an
+acknowledgment alone does not satisfy this condition. Use the citation
+metadata in CITATION.cff. When a version has a Zenodo DOI, cite that DOI; until
+then, cite the versioned GitHub release.
+
+4. DATA AND THIRD-PARTY MATERIALS
+
+This license applies only to the Software. It does not grant rights to any
+dataset, forum content, personal information, mapping, model weights, or other
+material not included in this package. It also does not replace or alter the
+licenses or terms applicable to third-party software and dependencies. You
+are responsible for obtaining any permissions required for materials you
+provide or use with the Software.
+
+5. TERMINATION
+
+The permissions granted by this license terminate automatically if you fail
+to comply with its terms. Upon termination, you must stop using and distributing
+the Software and destroy copies in your possession, except where retention is
+required by law or institutional research-record obligations. The copyright
+holders may reinstate permission in writing.
+
+6. NO WARRANTY; LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT
+PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH
+THE SOFTWARE OR ITS USE.
+
+7. RIGHTS NOT GRANTED
+
+All rights not expressly granted above are reserved by the applicable
+copyright holders. Nothing in this license transfers ownership of the
+Software.
